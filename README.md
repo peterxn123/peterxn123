@@ -3,8 +3,8 @@
 
 I'm a sixth form student in the UK who spends a lot of time building software, experimenting with AI and messing around with hardware.
 
-Right now I'm building **Form** — an AI-assisted desktop utility builder designed to make it easier for non-technical people to build small tools for themselves.
-It's designed to solve that problem of finding an app that would be super useful for your specific use case, but finding out it has an unreasonable paywall.
+Right now I'm building **Form** - an AI-powered desktop utility builder designed to make it easier for non-technical people to build small tools for themselves. 
+It's designed to solve that problem of finding an app that would be super useful for your use case, but finding out it has an unreasonable paywall.
 
 Most of my projects start with me thinking "surely there should be an easier way to do this" and then deciding to build it myself.
 
